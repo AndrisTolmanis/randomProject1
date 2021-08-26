@@ -1,3 +1,4 @@
 # randomProject1
-# npm install
-# vue serve
+npm install
+->
+vue serve
