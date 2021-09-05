@@ -1,0 +1,25 @@
+{
+  "name": "pagemaker",
+  "version": "1.0.0",
+  "description": "npm install\r ->\r vue serve",
+  "main": "index.js",
+  "dependencies": {
+    "sass": "^1.38.1",
+    "sass-loader": "^12.1.0",
+    "vue-html2pdf": "^1.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndrisTolmanis/randomProject1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndrisTolmanis/randomProject1/issues"
+  },
+  "homepage": "https://github.com/AndrisTolmanis/randomProject1#readme"
+}

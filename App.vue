@@ -30,7 +30,7 @@
               <div class="content-row">Datums: <div class="dashes" /></div>
               <div class="content-row">Svars: <div class="dashes" /></div>
               <div class="content-row">Augums: <div class="dashes" /></div>
-              <div class="content-row">GalviNa: <div class="dashes" /></div>
+              <div class="content-row">Galviņa: <div class="dashes" /></div>
               <div class="content-row">Krūtis: <div class="dashes" /></div>
               <div class="content-row">Nākošā vizīte: <div class="dashes" /></div>
               <div class="content-row">Ieteikumi: <div class="dashes" /></div>
@@ -70,7 +70,7 @@
               <div class="content-row"><div class="dashes" /></div>
               <div class="content-row"><div class="dashes" /></div>
             </div>
-            <img class="bottom-graphix" src="./3.png">
+            <img class="bottom-graphix" src="./2.png">
           </div>
           <div :key="`card-${4}`" class="single-card">
             <img class="top-graphix" src="./stars.png" alt="stars.png">
